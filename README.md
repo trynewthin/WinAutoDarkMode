@@ -21,7 +21,7 @@ Windows 自动深色模式切换工具 - 根据时间自动切换系统深色/�
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/WinAutoDarkMode.git
+git clone https://github.com/trynewthin/WinAutoDarkMode.git
 cd WinAutoDarkMode
 
 # 构建项目
